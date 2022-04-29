@@ -15,9 +15,8 @@
   <img width="250"  src="./images/pedestrian.gif">
 </p>
 
-## Build
-
-Build information here
+## Object Detector
+MS COCO Pre-trained models were used to fine-tune on the BDD100k dataset. The models were trained using `TensorFlow Object Detection API`. Detailed instructions for training the model and the demo inference script is given in the Object Detection folder.
 
 ## Dataset
 
