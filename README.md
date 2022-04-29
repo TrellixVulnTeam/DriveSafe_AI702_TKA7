@@ -4,7 +4,7 @@
 
 ## Introduction
 
-***DriveSafe*** is a driver assistance system utilizing efficient mobile computer vision models in order to deliver enhanced safety to drivers. Features of this sytem include traffic light detection, stop sign detection, distance monitoring based on vheicle speed and pedestrian collision warning. Some of the features can be seen below.
+***DriveSafe*** is a driver assistance system utilizing efficient mobile computer vision models in order to deliver enhanced safety to drivers. Features of this system include traffic light detection, stop sign detection, distance monitoring based on vehicle speed and pedestrian collision warning. Some of the features can be seen below.
 
 
 
@@ -23,5 +23,4 @@ MS COCO Pre-trained models were used to fine-tune on the BDD100k dataset. The mo
 The fine-tuning stage requires correctly formatted `tfrecord` files. In order to create this from raw BDD100k images and labels please follow the instructions from `/Dataset` and copy the generated dataset to `/Object_Detection/trainingdemo/annotations/`
 
 ## Mobile application
-The Android and iOS application was developed using `Flutter` Development Framework. See Flutter [Documentation](https://docs.flutter.dev/get-started/install) for installation. The app was buit using Flutter stable release `v1.22.6` and Xcode 12.
-
+The Android and iOS applications were developed using `Flutter` Development Framework. See Flutter [Documentation](https://docs.flutter.dev/get-started/install) for installation. The app was built using Flutter stable release `v1.22.6` and Xcode 12.
