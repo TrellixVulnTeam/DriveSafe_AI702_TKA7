@@ -1,5 +1,5 @@
 ## Training a Custom Object Detector
-Please refer to the `TF2_Object_Detection.ipynb` notebook for step-by-step instructions for installation of `TF2 Object Detection API` and training of the Custom model. The references for creating the following notebook are listed below.
+Please refer to the `TF2_Object_Detection.ipynb` notebook for step-by-step instructions for installation of `TF2 Object Detection API` and training of the Custom model. The references for creating the following notebook are listed below. Create a conda environment from `environment.yml` for training the model.
 
 The `inference_demo.py` can be used to run inference of our model. To run the demo script please follow the instructions given in `TF2_Object_Detection.ipynb` and complete the installation of the `Object detection API`. An example inference output is given as `output.jpg`
 
