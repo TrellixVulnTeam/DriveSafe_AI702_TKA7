@@ -1,91 +1,49 @@
-???
-person
-bicycle
-car
-motorcycle
-@airplane
-bus
-train
-truck
-@boat
-traffic light
-fire hydrant
-???
-stop sign
-parking meter
-@bench
-@bird
-@cat
-@dog
-@horse
-@sheep
-@cow
-@elephant
-@bear
-@zebra
-@giraffe
-???
-@backpack
-@umbrella
-???
-???
-@handbag
-@tie
-@suitcase
-@frisbee
-@skis
-@snowboard
-@sports ball
-@kite
-@baseball bat
-@baseball glove
-@skateboard
-@surfboard
-@tennis racket
-@bottle
-???
-@wine glass
-@cup
-@fork
-@knife
-@spoon
-@bowl
-@banana
-@apple
-@sandwich
-@orange
-@broccoli
-@carrot
-@hot dog
-@pizza
-@donut
-@cake
-@chair
-@couch
-@potted plant
-@bed
-???
-@dining table
-???
-???
-@toilet
-???
-@tv
-@laptop
-@mouse
-@remote
-@keyboard
-@cell phone
-@microwave
-@oven
-@toaster
-@sink
-@refrigerator
-???
-@book
-@clock
-@vase
-@scissors
-@teddy bear
-@hair drier
-@toothbrush
+item {
+  id: 1
+  name: 'bus'
+}
+
+item {
+  id: 2
+  name: 'traffic light'
+}
+
+item {
+  id: 3
+  name: 'traffic sign'
+}
+
+item {
+  id: 4
+  name: 'person'
+}
+
+item {
+  id: 5
+  name: 'bike'
+}
+
+item {
+  id: 6
+  name: 'truck'
+}
+
+item {
+  id: 7
+  name: 'motor'
+}
+
+item {
+  id: 8
+  name: 'car'
+}
+
+item {
+  id: 9
+  name: 'train'
+}
+
+item {
+  id: 10
+  name: 'rider'
+}
