@@ -24,3 +24,7 @@ The fine-tuning stage requires correctly formatted `tfrecord` files. In order to
 
 ## Mobile application
 The Android and iOS applications were developed using `Flutter` Development Framework. See Flutter [Documentation](https://docs.flutter.dev/get-started/install) for installation. The app was built using Flutter stable release `v1.22.6` and Xcode 12.
+
+
+## Demo video
+https://mbzuaiac-my.sharepoint.com/:v:/g/personal/sahal_mullappilly_mbzuai_ac_ae/EUYwY8x9zidMlu2rxANW85oBnw8lT0PPUBZSK_awsDs3gA?e=5bUFNd
